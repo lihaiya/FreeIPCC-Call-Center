@@ -4,7 +4,7 @@ freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！开源�
 
 大模型，LLM，LangChain，RAG检索模块！！！
 
-官方WeChat:freeipcc！！！
+官方WeChat:freeipcc！！！  
 
 2024.11.20，最新链接，enjoy：
 
