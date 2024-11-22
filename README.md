@@ -42,7 +42,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-
+关于源码与付费： 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
 
 
 
