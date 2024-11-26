@@ -6,7 +6,7 @@ freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！开源�
 
 官方WeChat:freeipcc！！！  
 
-2024.11.24，最新链接，enjoy：
+2024.11.26，最新链接，enjoy：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
