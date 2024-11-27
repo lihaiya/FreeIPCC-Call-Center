@@ -5,7 +5,7 @@ freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！开源�
 大模型，LLM，LangChain，RAG检索模块！！！！
 
 
-- 📫 How to reach me:
+- 📫 How to reach us:
 - 官方WeChat:freeipcc！！！
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
