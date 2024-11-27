@@ -1,6 +1,7 @@
 
-呼叫中心，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型！call center, contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot
+call center, contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot！呼叫中心，呼叫中心系统，话务系统，客服系统，工单系统，智能外呼，智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型！
 freeswitch，opensips，Kamailio，Asterisk，webrtc，outbound！！！开源呼叫中心系统（交付源代码给客户）！！！
+
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
 
 大模型，LLM，LangChain，RAG检索模块！！！！
