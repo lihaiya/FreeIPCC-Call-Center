@@ -3,13 +3,13 @@ callcenter,contactcenter,Call,IPCC,Voice,AI,Codec,call center,contact center,fre
 大模型，LLM，LangChain，RAG检索模块！！！！！
 
 
-- 📫 How to reach us:
+## 📫 How to reach us:
 - 官方WeChat:freeipcc！！！！！
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-2024.12.06，最新链接，enjoy😄😄😄：
+## 2024.12.06，最新链接enjoy😄😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -18,7 +18,7 @@ http://118.25.192.13:8822/cc
 http://118.25.192.13:80
 
 
-开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
+## 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 愿景：
 我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展。
 基础功能：
@@ -45,8 +45,9 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-关于源码与付费： 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
+## 关于源码与付费： 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
 
+## 其它语言
 英语
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
 
@@ -67,7 +68,7 @@ Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống đi�
 
 请注意，虽然我已尽力确保翻译的准确性，但由于语言的复杂性和文化差异，某些表达可能在特定语境下需要微调。
 
-## Hi there 👋
+##Hi there 👋
 
 <!--
 **FreeIPCC/FreeIPCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
