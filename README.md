@@ -49,7 +49,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-## 关于源码与付费： 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
+## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
 
 ## 其它语言
