@@ -12,7 +12,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2024.12.19，最新链接enjoy😄😄：
+## 2024.12.20，最新链接enjoy😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
@@ -50,6 +50,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 关于源码与付费： 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
 
 ## 其它语言
 英语
@@ -71,6 +72,7 @@ Centro de llamadas, sistema de centro de llamadas, sistema de telefonía, sistem
 Trung tâm cuộc gọi, hệ thống trung tâm cuộc gọi, hệ thống điện thoại, hệ thống dịch vụ khách hàng, hệ thống đơn công việc, gọi đi thông minh, hệ thống gọi đi thông minh, hệ thống trung tâm cuộc gọi, trí tuệ nhân tạo, robot nhận cuộc gọi, robot mô hình lớn, gọi đi điện thoại thông minh, hệ thống trung tâm cuộc gọi nguồn mở, gọi đi điện thoại, trung tâm dịch vụ khách hàng, dịch vụ khách hàng trực tuyến, mô hình lớn, hệ thống trung tâm cuộc gọi nguồn mở!!!
 
 请注意，虽然我已尽力确保翻译的准确性，但由于语言的复杂性和文化差异，某些表达可能在特定语境下需要微调。
+
 
 ##Hi there 👋
 
