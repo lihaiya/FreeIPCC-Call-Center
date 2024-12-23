@@ -6,7 +6,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2024.12.22，最新链接enjoy😄😄😄：
+## 2024.12.23，最新链接enjoy😄😄😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
