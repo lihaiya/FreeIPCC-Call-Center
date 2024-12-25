@@ -1,4 +1,4 @@
-呼叫中心，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，智能外呼，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块！！！！！！
+呼叫中心，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，智能外呼，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块！！！！！
 ## 😄完整性:前端、后端、数据库，齐全！
 ## 😄持续性:2014年至今持续迭代
 致力于成为：
@@ -10,7 +10,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2024.12.24，最新链接enjoy😄：
+## 2024.12.25，最新链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
