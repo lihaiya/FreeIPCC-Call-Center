@@ -4,7 +4,8 @@
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
+- Email:leehear@gmail.com
+- 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
 ## 2025.01.17最新demo链接enjoy😄：
 
