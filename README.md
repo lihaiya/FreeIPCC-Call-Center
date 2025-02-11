@@ -1,4 +1,4 @@
-呼叫中心，呼叫中心系统，呼叫系统，话务系统，客服系统，工单系统，智能外呼，智能外呼系统，呼叫，客服，外呼，呼入，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，联络中心，客服中心！freeswitch，opensips，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄）,大模型,LLM，LangChain,RAG检索模块！！！
+呼叫中心，呼叫中心系统，呼叫系统，话务系统，客服系统，工单系统，智能外呼，智能外呼系统，呼叫，客服，外呼，呼入，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型，联络中心，客服中心！freeswitch，opensips，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄）,大模型,LLM，LangChain,RAG检索模块！
 
 ## 😄完整性：前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -33,7 +33,7 @@ http://118.25.192.13:80
 7.	开放API与插件扩展：提供丰富的API接口，支持第三方开发者基于我们的平台进行功能扩展或定制开发，同时，我们也将积极维护一个插件市场，收录优质插件供用户选择。
 8.	云原生架构：采用云原生架构设计，支持快速部署、弹性扩展与自动运维，降低用户的IT成本与维护难度，同时保证系统的高可用性与安全性。
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
-10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！！！
+10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
@@ -49,7 +49,7 @@ http://118.25.192.13:80
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
 ## 关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）： 
-当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
 ## 其它语言
 英语
