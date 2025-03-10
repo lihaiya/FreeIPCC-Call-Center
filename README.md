@@ -36,21 +36,22 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/3747ce21-cac3-41f3-8136-7325be594647)
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/16919b55-c8c6-4014-8be3-af798c9878ae)
-![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
-![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
-![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
-![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
-![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+![01-freeipcc01](https://github.com/user-attachments/assets/f64e161c-68a1-4e4d-b12e-e910dcab26f8)
+![02-freeipcc14](https://github.com/user-attachments/assets/47764469-de7b-46ba-8626-654a90361b24)
+![03-freeipcc04](https://github.com/user-attachments/assets/43bc3b1b-9dc8-4bfc-8d0a-61e3cea7ac2e)
+![04-freeipcc08](https://github.com/user-attachments/assets/18359c61-ee39-4e51-94e5-629855095ea3)
+![05-freeipcc09](https://github.com/user-attachments/assets/ddf63606-ddb1-4857-898d-9c95c0bbed98)
+![06-freeipcc02](https://github.com/user-attachments/assets/45992ac2-ba33-4ffa-8967-7f8bb052ed26)
+![07-freeipcc15](https://github.com/user-attachments/assets/e6833b18-ee95-40be-9e60-5d1ab0977721)
+![08-freeipcc](https://github.com/user-attachments/assets/aa5d6150-2a3e-4db6-a2b6-69d5daac0714)
+![09-freeipcc03-FreeAICC](https://github.com/user-attachments/assets/a4cfde78-1c94-4b41-80f6-b0f4e45a0377)
+![10-freeipcc05](https://github.com/user-attachments/assets/547ac5f2-37e9-4469-8407-05023bac2a54)
+![11-freeipcc06](https://github.com/user-attachments/assets/7eaafde5-5e98-40b2-a2d7-ea4d5b6ab271)
+![12-freeipcc07](https://github.com/user-attachments/assets/109edd2a-ff4b-408f-914e-41a9da42f169)
+![13-freeipcc10](https://github.com/user-attachments/assets/a3d1ae39-dea7-43be-9931-bd49578bdd71)
+![14-freeipcc11](https://github.com/user-attachments/assets/8bd2e7b4-727d-494a-a04a-419d19e7682f)
+![15-freeipcc12](https://github.com/user-attachments/assets/24ebd0a3-bc4c-43fc-a108-a63dd8b53ea5)
+![16-freeipcc13](https://github.com/user-attachments/assets/160c595a-0cf0-465a-99bf-a8e2afea9e6d)
 
 ## 关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）： 
 当用户付费之后，我们将会提供对应模块源代码以及一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
