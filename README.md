@@ -13,13 +13,14 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## 2025.03.13最新demo链接enjoy😄：
+## 2025.03.16 new demo URL 最新链接enjoy😄：
 
-1，话务/在线客服：(demo123/demo123@Abc)
+1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
 
-2，工单：(demo/123456)
+2，工单work oder：(demo/123456)
 http://118.25.192.13:80
+
 ## demo视频 demo video
 [点击此处观看视频Click here to watch the video](https://github.com/FreeIPCC/FreeIPCC/blob/main/00-%E5%AE%A2%E6%88%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%91%BC%E5%8F%AB%E4%B8%AD%E5%BF%83%E6%B5%8B%E8%AF%95-%E8%A3%81%E5%89%AA%E6%8E%89%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.mp4)
 [点击此处观看视频Click here to watch the video](https://github.com/FreeIPCC/FreeIPCC/blob/main/00-%E8%BF%90%E8%90%A5%E5%95%86%E7%94%B5%E8%AF%9D%E5%8A%A9%E7%90%86%E6%B5%8B%E8%AF%95-%E5%B8%A6%E5%AD%97%E5%B9%95.mp4)
