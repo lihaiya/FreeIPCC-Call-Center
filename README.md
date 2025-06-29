@@ -26,7 +26,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 📫 How to reach us 📫:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
-- 官方WeChat02:easyaicc
+- 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
