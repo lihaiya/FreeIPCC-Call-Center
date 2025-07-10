@@ -73,8 +73,6 @@ Basic functions:
 8. Cloud native architecture: Adopt cloud native architecture design, support rapid deployment, elastic expansion and automatic operation and maintenance, reduce users' IT costs and maintenance difficulties, and ensure high availability and security of the system.
 9. Highly configurable: Provides an intuitive configuration interface, allowing users to adjust system parameters and optimize workflows according to their needs without programming, and achieve rapid customization and deployment.
 10. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, propose requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
-<!--  
--->
 
 <img width="997" height="479" alt="image" src="https://github.com/user-attachments/assets/84262ee4-bd68-472f-9544-4db126b7861e" />
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
@@ -87,6 +85,7 @@ Basic functions:
 ![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
+
 
 ## 关于源码与付费： 付费后，我们将会提供对应模块源码及一次源码培训 About source code and payment: After payment, we will provide the corresponding module source code and one source code training
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
