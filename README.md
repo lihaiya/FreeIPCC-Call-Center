@@ -74,7 +74,6 @@ Basic functions:
 9. Highly configurable: Provides an intuitive configuration interface, allowing users to adjust system parameters and optimize workflows according to their needs without programming, and achieve rapid customization and deployment.
 10. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, propose requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
-<img width="997" height="479" alt="image" src="https://github.com/user-attachments/assets/84262ee4-bd68-472f-9544-4db126b7861e" />
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
 ![image](https://github.com/user-attachments/assets/804da108-aa56-4f65-98f2-0d55fe4590fb)
